@@ -2660,6 +2660,7 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 35%;
+		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
 	}
 
 		#header > * {
@@ -3143,6 +3144,7 @@ input, select, textarea {
 				position: relative;
 				text-align: center;
 				width: 100%;
+				box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2), 10px 10px 10px 10px rgba(0, 0, 0, 0.19);
 			}
 
 				#footer .icons {
