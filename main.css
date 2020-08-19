@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: hsl(58deg, 92%, 99%); /* tried this, but wasn't as good. hsl(38deg, 35%, 99%) */
+		background: hsl(58deg, 92%, 98%); /* tried this, but wasn't as good. hsl(38deg, 35%, 99%) */
 	}
 
 	::selection {
